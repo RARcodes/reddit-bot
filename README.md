@@ -3,19 +3,11 @@
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
 
 
-<a target="_blank" href="https://tmrrwinc.ca">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/6053155/170528535-e274dc0b-7972-4b27-af22-637f8c370133.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54f0f7.png">
-  <img src="https://user-images.githubusercontent.com/6053155/170528582-cb6671e7-5a2f-4bd4-a048-0e6cfa54f0f7.png" width="350">
 </picture>
 
 </a>
 
 ## Video Explainer
-
-[![lewisthumbnail](https://user-images.githubusercontent.com/6053155/173631669-1d1b14ad-c478-4010-b57d-d79592a789f2.png)
-](https://www.youtube.com/watch?v=3gjcY_00U1w)
 
 ## Motivation 🤔
 
@@ -78,18 +70,4 @@ I have tried to simplify the code so anyone can read it and start contributing a
 - [x] Light and Dark modes
 - [x] NSFW post filter
 
-Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
-
-## Developers and maintainers.
-
-Elebumm (Lewis#6305) - https://github.com/elebumm (Founder)
-
-Jason (JasonLovesDoggo#1904) - https://github.com/JasonLovesDoggo (Maintainer)
-
-CallumIO (c.#6837) - https://github.com/CallumIO
-
-Verq (Verq#2338) - https://github.com/CordlessCoder 
-
-LukaHietala (Pix.#0001) - https://github.com/LukaHietala
-
-Freebiell (Freebie#6429) - https://github.com/FreebieII
+Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed informat
