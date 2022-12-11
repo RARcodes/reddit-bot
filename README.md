@@ -2,7 +2,6 @@
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
 
-Created by Lewis Menelaws & [TMRRW](https://tmrrwinc.ca)
 
 <a target="_blank" href="https://tmrrwinc.ca">
 <picture>
